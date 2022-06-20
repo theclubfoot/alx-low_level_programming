@@ -1,1 +1,1 @@
-<h1> Arguments to main </H2>
+<h1> Arguments to the main </H2>
